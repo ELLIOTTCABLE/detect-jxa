@@ -31,6 +31,6 @@ License
 -------
 © 2017 ELLIOTTCABLE. `detect-jxa` is [available under][LICENSE] the [ISC license][].
 
-   [LICENSE]: /ELLIOTTCABLE/detect-jxa/blob/master/LICENSE.txt "detect-xja's LICENSE.txt"
+   [LICENSE]: /ELLIOTTCABLE/detect-jxa/blob/Master/LICENSE.txt "detect-jxa's LICENSE.txt"
    [ISC license]: https://tldrlegal.com/license/-isc-license
       "The ISC license, explained in plain English"
