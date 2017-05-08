@@ -1,0 +1,27 @@
+{  "author"     : "ELLIOTTCABLE (http://ell.io/tt)"
+
+ , "name"       : "detect-jxa"
+ , "version"    : "0.0.1"
+ , "license"    : "ISC"
+
+ , "repository" : "ELLIOTTCABLE/detect-jxa"
+ , "bugs"       : "https://github.com/ELLIOTTCABLE/detect-jxa/issues"
+
+ , "description":
+      "A function to detect whether the current JavaScript environment is macOS's JavaScript for Automation."
+ , "keywords"   : [
+      "jxa"
+    , "detect"
+    , "macos"
+    , "mac"
+    , "osascript"
+   ]
+
+ , "main"       : "./detect-jxa.js"
+
+ , "engines"    : {
+      "node"    : ">0.10.0"
+    , "jxa"     : ">10.10"
+   }
+
+,  "devDependencies" : { "jsdoc-to-markdown" : "^3.0.0" }                                          }
